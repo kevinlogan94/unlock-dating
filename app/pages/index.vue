@@ -28,10 +28,10 @@
                 Ready to transform your dating life?
               </p>
               <a
-                href="mailto:kevinmlogan7@gmail.com"
+                href="mailto:kevin@unlock-dating.com"
                 class="text-primary-500 hover:text-primary-400 font-semibold transition-colors"
               >
-                kevinmlogan7@gmail.com
+                kevin@unlock-dating.com
               </a>
             </div>
           </div>

@@ -61,7 +61,7 @@
         <!-- CTA Button -->
         <div class="pt-4">
           <UButton
-            :to="`mailto:kevinmlogan7@gmail.com?subject=Unlock Coaching - Book Free Consultation&body=Hi Kevin,%0D%0A%0D%0AI'm interested in learning more about your dating coaching program.%0D%0A%0D%0ACurrent situation:%0D%0A[Tell me about where you are now]%0D%0A%0D%0AGoals:%0D%0A[Tell me what you want to achieve]%0D%0A%0D%0AThanks!`"
+            :to="`mailto:kevin@unlock-dating.com?subject=Unlock Coaching - Book Free Consultation&body=Hi Kevin,%0D%0A%0D%0AI'm interested in learning more about your dating coaching program.%0D%0A%0D%0ACurrent situation:%0D%0A[Tell me about where you are now]%0D%0A%0D%0AGoals:%0D%0A[Tell me what you want to achieve]%0D%0A%0D%0AThanks!`"
             size="xl"
             color="primary"
             variant="solid"

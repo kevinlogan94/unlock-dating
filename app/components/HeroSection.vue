@@ -29,7 +29,7 @@
         <!-- CTA Button -->
         <div class="pt-8">
           <UButton
-            :to="`mailto:kevinmlogan7@gmail.com?subject=Unlock Coaching - Start My Transformation`"
+            :to="`mailto:kevin@unlock-dating.com?subject=Unlock Coaching - Start My Transformation`"
             size="xl"
             color="primary"
             variant="solid"
