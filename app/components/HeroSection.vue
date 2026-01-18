@@ -29,14 +29,15 @@
         <!-- CTA Button -->
         <div class="pt-8">
           <UButton
-            :to="`mailto:kevin@unlock-dating.com?subject=Unlock Coaching - Start My Transformation`"
+            to="https://calendly.com/kevin-unlock-dating/30min"
+            target="_blank"
             size="xl"
             color="primary"
             variant="solid"
             class="text-lg px-12 py-4 font-bold shadow-2xl shadow-primary-500/50 hover:shadow-primary-500/70 transition-all duration-300 hover:scale-105"
-            trailing-icon="i-lucide-arrow-right"
+            trailing-icon="i-lucide-calendar"
           >
-            Start Your Transformation
+            Schedule Your Free Call
           </UButton>
         </div>
 

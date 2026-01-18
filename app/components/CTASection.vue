@@ -61,12 +61,13 @@
         <!-- CTA Button -->
         <div class="pt-4">
           <UButton
-            :to="`mailto:kevin@unlock-dating.com?subject=Unlock Coaching - Book Free Consultation&body=Hi Kevin,%0D%0A%0D%0AI'm interested in learning more about your dating coaching program.%0D%0A%0D%0ACurrent situation:%0D%0A[Tell me about where you are now]%0D%0A%0D%0AGoals:%0D%0A[Tell me what you want to achieve]%0D%0A%0D%0AThanks!`"
+            to="https://calendly.com/kevin-unlock-dating/30min"
+            target="_blank"
             size="xl"
             color="primary"
             variant="solid"
             class="text-lg px-16 py-5 font-bold shadow-2xl shadow-primary-500/50 hover:shadow-primary-500/70 transition-all duration-300 hover:scale-105"
-            trailing-icon="i-lucide-mail"
+            trailing-icon="i-lucide-calendar"
           >
             Book Your Free Consultation
           </UButton>
