@@ -2,8 +2,13 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
-    '@nuxt/ui'
+    '@nuxt/ui',
+    'nuxt-gtag'
   ],
+
+  gtag: {
+    id: process.env.GOOGLE_ANALYTICS_ID
+  },
 
   devtools: {
     enabled: true
