@@ -26,16 +26,16 @@ Is she hiding her cell phone? This is the easiest tell. You'll notice that her p
 
 ## 2. Texting in secret
 
-You'll notice that she is texting. You'll probably notice that she's texting somebody, but she always tries to hide her phone from you. It seems as if she's trying to text somebody in secret from you.
+She'll probably start consciously hiding her phone from you while she's texting somebody else. Try asking who she is texting. The best tell is how she answers that question. She is she trying really hard to blow off your question?
 
 ## 3. Depression
 
 You're going to notice that she's very depressed.
- Usually, the depression part comes first. You'll start noticing that she's just super, super depressed, and when she's in that mood, she's far more inclined to say yes when approached by a guy.
+Usually, the depression part comes first, way before she starts cheating. Again, women cheat becomes that are not emotionally fulfilled in their relationships. 
 
 ## 4. Spotty scheduling plans
 
-She won't be as inclined to hang out, or she'll start being a little wishy-washy when it comes to scheduling plans with you.You'll hear her say things like, "Yeah, I'll try to make that work," or, "Yeah, we'll have to play it by ear. I'm not so sure what my schedule looks like right now." Where, beforehand, she would tell you immediately that she was good or that she was happy to schedule it.
+She won't be as inclined to hang out, or she'll start being a little wishy-washy when it comes to scheduling plans with you.Y ou'll hear her say things like, "Yeah, I'll try to make that work," or, "Yeah, we'll have to play it by ear. I'm not so sure what my schedule looks like right now." Where, beforehand, she would tell you immediately that she was good or that she was happy to schedule it.
 
 ## 5. Distance
 
