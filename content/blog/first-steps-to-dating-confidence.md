@@ -2,7 +2,7 @@
 title: "Is my girlfriend cheating on me?"
 description: "How to spot if your girlfriend is cheating on you and what to do next."
 date: 2026-01-18
-image: "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1200&q=80"
 minRead: 4
 author:
   name: Kevin
