@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unlock-dating.com/sitemap.xml
+

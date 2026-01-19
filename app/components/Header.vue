@@ -23,6 +23,13 @@
           >
             Blog
           </NuxtLink>
+          <NuxtLink
+            to="/about"
+            class="text-gray-300 hover:text-white transition-colors font-medium"
+            active-class="text-white"
+          >
+            About
+          </NuxtLink>
           <UButton
             to="https://calendly.com/kevin-unlock-dating/30min"
             target="_blank"
@@ -70,6 +77,14 @@
             @click="mobileMenuOpen = false"
           >
             Blog
+          </NuxtLink>
+          <NuxtLink
+            to="/about"
+            class="block text-gray-300 hover:text-white transition-colors font-medium"
+            active-class="text-white"
+            @click="mobileMenuOpen = false"
+          >
+            About
           </NuxtLink>
           <UButton
             to="https://calendly.com/kevin-unlock-dating/30min"

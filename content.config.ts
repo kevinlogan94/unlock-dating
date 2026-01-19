@@ -29,11 +29,13 @@ export default defineContentConfig({
     pages: defineCollection({
       type: 'page',
       source: [
-        { include: 'blog.yml' }
+        { include: 'blog.yml' },
+        { include: 'about.yml' }
       ],
       schema: z.object({
         title: z.string(),
         description: z.string(),
+        content: z.string().optional(),
         seo: z.object({
           title: z.string().optional(),
           description: z.string().optional()

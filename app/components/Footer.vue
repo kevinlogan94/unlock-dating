@@ -22,6 +22,12 @@
             >
               Blog
             </NuxtLink>
+            <NuxtLink
+              to="/about"
+              class="text-gray-400 hover:text-white transition-colors"
+            >
+              About
+            </NuxtLink>
           </div>
 
           <!-- Contact -->

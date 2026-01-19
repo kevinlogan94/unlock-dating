@@ -14,10 +14,12 @@
     "@iconify-json/lucide": "^1.2.82",
     "@iconify-json/simple-icons": "^1.2.63",
     "@nuxt/content": "^3.8.2",
+    "@nuxt/image": "^2.0.0",
     "@nuxt/ui": "^4.3.0",
     "better-sqlite3": "^12.4.6",
     "nuxt": "^4.2.2",
-    "nuxt-gtag": "^4.1.0"
+    "nuxt-gtag": "^4.1.0",
+    "nuxt-og-image": "^5.1.12"
   },
   "devDependencies": {
     "@nuxt/eslint": "^1.12.1",
