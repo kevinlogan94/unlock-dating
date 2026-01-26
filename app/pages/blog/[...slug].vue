@@ -137,7 +137,9 @@ const formatDate = (dateString: string) => {
 // SEO
 const title = page.value?.seo?.title || page.value?.title
 const description = page.value?.seo?.description || page.value?.description
-const canonicalUrl = `https://unlock-dating.com${normalizedPath}`
+// Ensure canonical URL has trailing slash to match redirect behavior
+const canonicalPath = normalizedPath.endsWith('/') ? normalizedPath : `${normalizedPath}/`
+const canonicalUrl = `https://unlock-dating.com${canonicalPath}`
 
 useSeoMeta({
   title,
