@@ -137,6 +137,7 @@ const formatDate = (dateString: string) => {
 // SEO
 const title = page.value?.seo?.title || page.value?.title
 const description = page.value?.seo?.description || page.value?.description
+const canonicalUrl = `https://unlock-dating.com${normalizedPath}`
 
 useSeoMeta({
   title,
@@ -147,6 +148,12 @@ useSeoMeta({
   ogType: 'article',
   articlePublishedTime: page.value?.date,
   articleAuthor: page.value?.author?.name
+})
+
+useHead({
+  link: [
+    { rel: 'canonical', href: canonicalUrl }
+  ]
 })
 </script>
 
