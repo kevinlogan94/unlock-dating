@@ -70,10 +70,10 @@
             <div class="relative p-8 h-80 flex flex-col justify-end">
               <UIcon name="i-lucide-shield-check" class="w-10 h-10 text-primary-500 mb-4" />
               <h3 class="text-2xl font-bold text-white mb-2">
-                Build Unshakeable Confidence
+                Build Authentic Self-Confidence
               </h3>
               <p class="text-gray-300">
-                Develop rock-solid self-assurance in any social situation
+                Develop genuine self-assurance rooted in who you truly are
               </p>
             </div>
           </div>
