@@ -1,7 +1,7 @@
 ---
 title: "The Dangerous Fantasy: Why You're Falling in Love with Someone Who Doesn't Exist"
 description: "Your brain is tricking you into loving an imaginary version of her. Learn how to see her for who she really is before you get your heart broken."
-date: 2026-01-23
+date: 2026-01-25
 image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=1200&q=80"
 minRead: 6
 author:

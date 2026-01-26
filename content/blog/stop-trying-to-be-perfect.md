@@ -1,7 +1,7 @@
 ---
 title: "Stop Trying to Be Perfect: The Truth About What Women Actually Want"
 description: "Society tells you to be an alpha male with no flaws. But that's what's killing your dating life. Learn why authenticity attracts better women than perfection ever could."
-date: 2026-01-22
+date: 2026-01-25
 image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&q=80"
 minRead: 6
 author:
